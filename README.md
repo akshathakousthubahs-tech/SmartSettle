@@ -13,10 +13,12 @@ Cost and latency optimization
 Multi-rail support (Cards, UPI, Bank Transfer)
 Faster settlement and reconciliation
 Analytics for payment performance
+
 ⚙️ Tech Stack
 Backend: Node.js / Python
 APIs: Payment Gateway Integrations
 Database: PostgreSQL / Redis
 Infrastructure: Docker / Cloud
+
 🎯 Goal
 Improve payment efficiency, reduce costs, and accelerate settlements using smart routing.
